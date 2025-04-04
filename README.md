@@ -4,10 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Video Streaming & Golang Engineer
 ---------------------------------
 
-With 9+ years of backend development experience, including 8+ years in Golang, I specialize in Video Streaming technologies, backend architecture, API development, and cloud computing. I have hands-on experience with GCP, AWS, and Azure
+With 9 years of backend development experience, including 8 years in Golang, I specialize in Video Streaming technologies, backend architecture, Scalable Microservices based API development, and cloud computing along with hands-on experience with GCP, AWS, and Azure
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [a@abrar.me](mailto:a@abrar.me)
+* ✉️  You can contact me at [abrar@abrar.me](mailto:abrar@abrar.me)
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/abrar71" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abrar-me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
 ### Skills
 
@@ -17,12 +22,8 @@ With 9+ years of backend development experience, including 8+ years in Golang, I
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/abrar71" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abrar-me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/abrar71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar71&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/abrar71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar71&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
